@@ -3,7 +3,7 @@ private class Demo2clsTest {
     @isTest
     static void testGetGreeting() {
         String result = Democls.getGreeting();
-        System.assertEquals('Hello from Opsera demo!', result);
+        System.assertEquals('Hello from Opsera demo', result);
     }
 
     @isTest

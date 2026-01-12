@@ -1,6 +1,6 @@
 public class DemoCls {
     public static String getGreeting() {
-        return 'Hello from Opsera demo!';
+        return 'Hello from Opsera demo';
     }
 
     public static String getSecondGreeting() {
