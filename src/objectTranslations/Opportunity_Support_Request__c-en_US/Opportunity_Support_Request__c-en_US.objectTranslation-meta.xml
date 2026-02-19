@@ -9,4 +9,5 @@
         <value>Opportunity Support Requests</value>
     </caseValues>
     <startsWith>Consonant</startsWith>
+    <!-- Added a minor comment for clarity -->
 </CustomObjectTranslation>
