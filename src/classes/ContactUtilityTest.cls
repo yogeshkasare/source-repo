@@ -3,7 +3,7 @@ public class ContactUtilityTest {
     
     @isTest
     static void testGetContactsByAccountId() {
-        // Create a test Account
+        
         Account testAccount = new Account(Name = 'Test Account');
         insert testAccount;
         
