@@ -1,6 +1,6 @@
 public class DiscountCalculator {
     
-    // Method to calculate discounted price
+    // Method to calculate discou
     public static Decimal calculateDiscount(Decimal originalPrice, Decimal discountPercent) {
         if (originalPrice < 0 || discountPercent < 0 || discountPercent > 100) {
             throw new IllegalArgumentException('Invalid input values');
